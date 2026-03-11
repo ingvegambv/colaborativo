@@ -1,1 +1,3 @@
-alert("Esto es una alerta");
+function myAlert(message){
+alert(message);    
+}
