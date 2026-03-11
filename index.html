@@ -13,7 +13,8 @@
     <h2>bai</h2>
     <h3>hola de nuevo</h3>
     <h2>que onda</h2>
-    <button onclick="myAlert('este es un click')"></button>
+    <input type="text" id="myText" placeholder="Escribe el texto de alerta">
+    <button onclick="myAlert(document.getElementById('myText').value)">Mostrar Alerta</button>
 <script src="alert.js"></script>
 </body>
 </html>
