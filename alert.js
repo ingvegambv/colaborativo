@@ -1,3 +1,3 @@
 function myAlert(message){
-alert(message);    
+    alert(message);    
 }
