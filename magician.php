@@ -1,4 +1,4 @@
-<?php
+<?php include_once "character.php";
 class Magician extends Character{
 
     public function attack()
