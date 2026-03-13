@@ -1,3 +1,6 @@
+<?php
+require_once 'videoGame.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
