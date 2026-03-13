@@ -1,7 +1,7 @@
 <?php include_once "sedan.php"; include_once "pickup.php";
 
-$sedan = new Sedan ("blanco", "chevrolet");
-$pickup = new Pickup ("azul", "dodge");
+$sedan = new Sedan ("Blanco", "Chevrolet");
+$pickup = new Pickup ("Azul", "Dodge");
 
 
 $sedan->showInfoCar();

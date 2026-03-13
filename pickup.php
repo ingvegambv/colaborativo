@@ -3,7 +3,7 @@
 class Pickup extends Car{
     public function run()
     {
-        echo "la pickup " . this->color . "avanza";
+        echo "La pickup " . this->color . "avanza";
     }
 
 
